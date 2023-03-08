@@ -2,7 +2,7 @@
 
 ### Petunjuk
    1. Download semua file yang ada pada repository ini.
-   2. Lanjutkan dan selesaikan penulisan aplikasi konversi untuk "panjang" pada file app.js.
+   2. Lanjutkan dan selesaikan penulisan aplikasi konversi panjang pada file app.js.
    3. Pastikan setiap konversi berjalan dengan sesuai.
    4. Ubah penulisan Javascript yang sudah berjalan menjadi Jquery dan pastikan tetap aman dan berikan tampilan yang menarik menggunakan CSS (nilai tambah).
    5. Buat repository pada akun github yang sudah kalian buat dengan nama "tugas-dmi" (tanpa tanda kutip) dan isi deskripsi repo dengan nama lengkap dan kelas.
